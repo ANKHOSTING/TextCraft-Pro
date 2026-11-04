@@ -86,3 +86,8 @@ test-results/
 .tmp/
 tmp/
 *.local
+
+# signing material (chore/infra-audit-2026-11)
+*.jks
+*.keystore
+keystore.properties
